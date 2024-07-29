@@ -53,7 +53,10 @@ The application defines the following routes:
    Output:
 
    ```
-   Hello World!!! Node Sample App is up and running!
+   Hope This rks !!! Node Sample App is up and running!
+
+
+
    ```
 
 2. **GET /ping:**
